@@ -28,3 +28,11 @@ Myntra-Clone/
 │   └── index.js
 ├── index.html
 └── README.md
+
+
+## ⚡ Setup
+```bash
+git clone https://github.com/tiwariprachi3007/Myntra-Clone.git
+cd Myntra-Clone
+
+Open index.html in your browser to view the project.
