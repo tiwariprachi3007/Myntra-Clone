@@ -12,3 +12,19 @@ It replicates the shopping experience with product listings, shopping bag functi
 - Clean UI with images and assets
 
 ## 📂 Project Structure
+
+Myntra-Clone/
+├── css/
+│   ├── bag.css
+│   └── index.css
+├── data/
+│   └── items.js
+├── images/
+│   └── (all product images, logos, icons)
+├── pages/
+│   └── bag.html
+├── scripts/
+│   ├── bag.js
+│   └── index.js
+├── index.html
+└── README.md
