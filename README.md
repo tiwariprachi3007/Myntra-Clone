@@ -36,3 +36,9 @@ git clone https://github.com/tiwariprachi3007/Myntra-Clone.git
 cd Myntra-Clone
 
 Open index.html in your browser to view the project.
+
+
+> ⚠️ Disclaimer: This project is a front‑end clone created for educational purposes.  
+> All product images, logos, and trademarks belong to their respective owners (Myntra).  
+> No commercial use intended.
+
