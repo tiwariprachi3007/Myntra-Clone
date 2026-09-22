@@ -1,5 +1,7 @@
 # Myntra Functional Clone 👗🛒
 
+![Myntra Clone Banner](images/banner.jpg)
+
 A modern, fully functional front-end clone of **Myntra** built using **HTML5, Vanilla CSS3, and JavaScript (ES6+)**.  
 This project replicates core e-commerce interactions including dynamic product browsing, real-time search, category filtering, a full wishlist system, interactive shopping bag, and checkout confirmation.
 
@@ -41,6 +43,7 @@ Myntra-Clone/
 │   └── items.js          # Product data catalog (ratings, pricing, categories)
 ├── images/
 │   ├── 1.jpg ... 8.jpg   # Product images
+│   ├── banner.jpg        # Project preview banner
 │   └── myntra_logo.webp  # Myntra brand logo
 ├── pages/
 │   └── bag.html          # Shopping bag & checkout page
